@@ -21,31 +21,37 @@ USE `bdvideoclub`;
 
 -- Volcando estructura para tabla bdvideoclub.alquiler
 CREATE TABLE IF NOT EXISTS `alquiler` (
-  `Precio` int(11) DEFAULT NULL,
-  `Codigo_pelicula` int(11) DEFAULT NULL,
-  `Code_cliente` int(11) DEFAULT NULL,
-  KEY `Codigo_peli` (`Codigo_pelicula`),
-  KEY `Codigo_cliente` (`Code_cliente`),
-  CONSTRAINT `Codigo_cliente` FOREIGN KEY (`Code_cliente`) REFERENCES `clientes` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION,
-  CONSTRAINT `Codigo_peli` FOREIGN KEY (`Codigo_pelicula`) REFERENCES `pelicula` (`codigo_pelicula`) ON DELETE NO ACTION ON UPDATE NO ACTION
+  `precio` int(11) NOT NULL,
+  `pelicula_id` int(11) NOT NULL,
+  `cliente_id` int(11) NOT NULL,
+  `monto` int(11) NOT NULL DEFAULT 0,
+  `fecha_alquiler` varchar(50) NOT NULL,
+  `fecha_vencimiento` varchar(50) NOT NULL,
+  KEY `Codigo_peli` (`pelicula_id`) USING BTREE,
+  KEY `Codigo_cliente` (`cliente_id`) USING BTREE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- Volcando datos para la tabla bdvideoclub.alquiler: ~0 rows (aproximadamente)
 
 -- Volcando estructura para tabla bdvideoclub.clientes
 CREATE TABLE IF NOT EXISTS `clientes` (
-  `ID` int(11) NOT NULL AUTO_INCREMENT,
-  `Nombre` varchar(50) DEFAULT NULL,
-  `Deuda` tinyint(1) DEFAULT NULL,
-  PRIMARY KEY (`ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(50) NOT NULL,
+  `deuda` tinyint(1) DEFAULT 0,
+  `dni` int(11) NOT NULL,
+  PRIMARY KEY (`id`) USING BTREE
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4;
 
--- Volcando datos para la tabla bdvideoclub.clientes: ~0 rows (aproximadamente)
+-- Volcando datos para la tabla bdvideoclub.clientes: ~1 rows (aproximadamente)
+INSERT INTO `clientes` (`id`, `nombre`, `deuda`, `dni`) VALUES
+	(2, 'Dylan', 1, 0);
 
 -- Volcando estructura para tabla bdvideoclub.pelicula
 CREATE TABLE IF NOT EXISTS `pelicula` (
-  `codigo_pelicula` int(11) NOT NULL AUTO_INCREMENT,
-  PRIMARY KEY (`codigo_pelicula`)
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(50) NOT NULL DEFAULT '0',
+  `precio` int(11) NOT NULL,
+  PRIMARY KEY (`id`) USING BTREE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 -- Volcando datos para la tabla bdvideoclub.pelicula: ~0 rows (aproximadamente)
