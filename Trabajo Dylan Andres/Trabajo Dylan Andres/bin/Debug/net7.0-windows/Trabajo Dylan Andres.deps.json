@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Trabajo Dylan Andres/1.0.0": {
+        "runtime": {
+          "Trabajo Dylan Andres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo Dylan Andres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

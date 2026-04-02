@@ -1,0 +1,17 @@
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\bin\Debug\net7.0-windows\Trabajo Dylan Andres.exe
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\bin\Debug\net7.0-windows\Trabajo Dylan Andres.deps.json
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\bin\Debug\net7.0-windows\Trabajo Dylan Andres.runtimeconfig.json
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\bin\Debug\net7.0-windows\Trabajo Dylan Andres.dll
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\bin\Debug\net7.0-windows\Trabajo Dylan Andres.pdb
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.csproj.AssemblyReference.cache
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo_Dylan_Andres.Form1.resources
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.csproj.GenerateResource.cache
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.AssemblyInfoInputs.cache
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.AssemblyInfo.cs
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.dll
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\refint\Trabajo Dylan Andres.dll
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.pdb
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\Trabajo Dylan Andres.genruntimeconfig.cache
+C:\Users\PC-1\Desktop\Trabajo-1de-abril-dfd-y-windows-forms-\Trabajo Dylan Andres\Trabajo Dylan Andres\obj\Debug\net7.0-windows\ref\Trabajo Dylan Andres.dll

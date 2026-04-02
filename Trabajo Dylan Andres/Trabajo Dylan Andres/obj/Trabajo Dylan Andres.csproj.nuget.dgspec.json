@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC-1\\Desktop\\Nueva carpeta\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj": {}
+    "C:\\Users\\PC-1\\Desktop\\Trabajo-1de-abril-dfd-y-windows-forms-\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC-1\\Desktop\\Nueva carpeta\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj": {
+    "C:\\Users\\PC-1\\Desktop\\Trabajo-1de-abril-dfd-y-windows-forms-\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC-1\\Desktop\\Nueva carpeta\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj",
+        "projectUniqueName": "C:\\Users\\PC-1\\Desktop\\Trabajo-1de-abril-dfd-y-windows-forms-\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj",
         "projectName": "Trabajo Dylan Andres",
-        "projectPath": "C:\\Users\\PC-1\\Desktop\\Nueva carpeta\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj",
+        "projectPath": "C:\\Users\\PC-1\\Desktop\\Trabajo-1de-abril-dfd-y-windows-forms-\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\Trabajo Dylan Andres.csproj",
         "packagesPath": "C:\\Users\\PC-1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC-1\\Desktop\\Nueva carpeta\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\obj\\",
+        "outputPath": "C:\\Users\\PC-1\\Desktop\\Trabajo-1de-abril-dfd-y-windows-forms-\\Trabajo Dylan Andres\\Trabajo Dylan Andres\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,14 +39,6 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
